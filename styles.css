@@ -23,7 +23,7 @@ p {
 
 .section-heading {
   font-size: 3rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 /********************************************************* Containers */
@@ -68,7 +68,6 @@ p {
 }
 
 /******************************************************* Title section */
-
 #title .container-fluid {
   padding: 3% 15% 7%;
   text-align: left;
